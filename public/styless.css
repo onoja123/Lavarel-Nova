@@ -1,0 +1,544 @@
+
+@media (max-width: 24em) {
+    .mm{
+        max-height: 1800px;
+    }
+}
+@media (orientation: portrait) {
+
+    body{
+      overflow-x: hidden;
+     
+    }
+    br{
+        display: none;
+    }
+    .ght {
+    position: relative;
+   right: 650px;
+   
+    }
+    
+    .gjh {
+       
+       position: relative;
+       padding-bottom: 1.5rem;
+    }
+
+    .lvr {
+    position: relative;
+    max-height: 1px;
+    padding-bottom: 150px;
+    margin-left: 135px;
+    top: 0%;
+    bottom: 0%;
+    display: flex;
+    width: 8em;
+  }
+
+  .lkg{
+      position: relative;
+      bottom: 0%;
+      top: 0%;
+      margin-left: 296px;
+      font-size: 14px;
+      margin-bottom: 22px;
+  }
+
+  .kg{
+   right: -20px;
+   bottom: 0%;
+   margin-top: 25px;
+    top: 0%;
+    font-size: 14px;
+  }
+
+  .jg{
+    right: -5px;
+   bottom: 0%;
+   margin-top: 50px;
+    top: 0%;
+    font-size: 14px;
+  }
+
+  .lu{
+    right: -35px;
+    bottom: 0%;
+    margin-top: 80px;
+     top: 0%;
+     font-size: 14px;
+  }
+
+  .sl{
+      position: absolute;
+      top: 230px;
+      left: -380px;
+      width: 22em;
+      bottom: 200px;
+  }
+
+.hu{
+    position: relative;
+    top: 250px;
+}
+
+.ui{
+    position: relative;
+    top:230px;
+    max-width: 350px;
+    left: -30px;
+     
+}
+
+.yu{
+   position: relative;
+   top: 230px;
+   left: 70px;
+}
+
+.up{
+    position: relative;
+    font-size: 30px;
+    white-space: nowrap;
+    left: 170px;
+    bottom:10px;
+    font-weight: 200;
+}
+
+.uo{
+position: relative;
+font-size: -1em;
+right: 20px;
+bottom: 20px;
+margin-left: 100px;
+width: 70%;
+padding-left: 50px;
+padding-right: 30px;
+}
+
+.op{
+    position: relative;
+    bottom: -350px;
+   
+}
+
+.oo{
+    position: absolute;
+    right: 50px;
+   bottom: 860px;
+    width: 80%;
+}
+
+.ol{
+    position: relative;
+   top: 200px;
+   min-height: 1240px;
+}
+
+.ty{
+position: relative;
+top: 60px;
+font-weight: -50;
+box-sizing: inherit;
+font-size: 1.5rem;
+line-height: 1.5;
+font-weight: 300;
+width: 80%;
+left: 30px;
+}
+
+.ok{
+    position: relative;
+    top: -75px;
+    left: 70px;
+}
+
+.kk{
+    position: relative;
+    right: 142px;
+    top: 65px;
+}
+
+.mn{
+display: inline;
+    position: relative;
+font-size:88%;
+max-width: max-content;
+padding: 0;
+content: '';
+}
+
+.kn{
+    position: relative;
+    right: -70px;
+    top: -80px;
+    width: 300px;
+    font-size: 97%;
+   
+}
+.lo{
+   position: relative;
+   top: 30px;
+   right: 470px;
+}
+
+.xz{
+    position: relative;
+    left: 75px;
+    bottom: 70px;
+    width: 270px;
+}
+
+.xx{
+    
+    position: relative;
+    left: -480px;
+    top: 65px;
+}
+
+.oy{
+ position: relative;
+ font-size: 16px;
+}
+
+.yo{
+position: relative;
+font-size: 16px;
+}
+
+.yy{
+position: relative;
+font-size: 17px;
+}
+
+.nk{
+    display: inline;
+    position: relative;
+    font-weight: 100;
+    
+   min-width: 2000%;
+   padding: 0;
+   
+
+}
+
+.xc{
+    display: inline;
+    position: relative;
+font-size:88%;
+width: 100;
+padding: 0;
+
+}
+
+.ob{
+    position: relative;
+    bottom: 340px;
+    right: 150px;
+    width: 100px;
+    display: inline;
+    padding: 0;
+    max-width: max-content;
+}
+    .pa{
+      position: sticky;
+      bottom: 0;
+      
+    }
+
+.ov{
+    height: 60px;
+    width: 60px;
+    background-color: rgba(49, 65, 78);
+    position:absolute;
+    right: 2rem;
+    bottom: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0px solid;
+    border-radius: 50%;
+}
+
+
+.uv{
+    display: none;
+}
+
+
+
+.pl{
+    position: relative;
+    padding-bottom: 55rem;
+    overflow: hidden;
+}
+
+
+.ob{
+  
+    position: relative;
+    right: 165px;
+   width: 200px;
+   
+}
+
+.hj{
+    position: relative;
+    right: 3px;
+}
+
+.lp{
+    position: relative;
+    bottom:345px;
+    right: 160px;
+}
+
+
+.kt{
+    position: relative;
+    top: 2px;
+    right: 103px;
+  margin-left: 100px;
+  font-size: 13px;
+  width: 170%;
+}
+ 
+.mm{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+    max-height: 1820px;
+}
+
+.bo{
+    position: relative;
+    bottom: 345px;
+    left: -8px;
+}
+
+.tk{
+    position: relative;
+    top: 2px;
+    right: 103px;
+  left: 1px;
+  font-size: 13px;
+ width: 91%;
+}
+
+.bob{
+    position: relative;
+    bottom: 340px;
+    left: -165px;
+}
+
+.tkk{
+    position: relative;
+    top: 2px;
+    right: 103px;
+  left: 1px;
+  font-size: 13px;
+ width: 181%;
+}
+
+
+.obb{
+position: relative;
+bottom: 350px;
+    left: -40px;
+}
+
+.kkt{
+position: relative;
+top: 2px;
+    right: 103px;
+  left: 1px;
+  font-size: 13px;
+ width: 115%;
+}
+
+.hh{
+    position: relative;
+    bottom: 5px;
+}
+
+.oi{
+position: relative;
+bottom: 380px;
+    left: -160px;
+
+}
+
+.bn{
+position: relative;
+top: 2px;
+    right: 103px;
+  left: 1px;
+  font-size: 13px;
+ width: 175%;
+}
+
+.er{
+    position: relative;
+    bottom: 400px;
+        left: -42px;
+}
+
+.re{
+    position: relative;
+    top: 2px;
+        right: 103px;
+      left: 1px;
+      font-size: 13px;
+     width: 115%;
+}
+
+.nb{
+    position: relative;
+    left: 40px;
+}
+
+.nbn{
+   position: relative;
+   bottom: 410px;
+        left: -160px;
+}
+
+.bnb{
+  position: relative;
+  top: 2px;
+        right: 103px;
+      left: 1px;
+      font-size: 13px;
+     width:180%;
+}
+
+.th{
+position: relative;
+bottom: 410px;
+        left: -40px
+}
+
+.hth{
+    position: relative;
+    top: 2px;
+          right: 103px;
+        left: 1px;
+        font-size: 13px;
+       width:120%;
+}
+
+.yt{
+    position: relative;
+    left: 10px;
+}
+
+
+.ry{
+ 
+ position: relative;
+bottom: 450px;
+        left: -160px;
+  
+}
+
+.yr{
+  position: relative;
+  top: 2px;
+          right: 103px;
+        left: 1px;
+        font-size: 13px;
+       width:140%;
+}
+
+.gb{
+    position: relative;
+    min-width: 12rem;
+   
+}
+
+.gv{
+    position: relative;
+    top: 40px;
+}
+
+.ore{
+    position: relative;
+    max-height: 370px;
+}
+
+
+.uyy{
+    position: relative;
+    top: 240px;
+}
+
+.ord{
+  position: relative;
+  right: 280px;
+  font-size: large;
+  font-weight: 300;
+  width: 80%;
+  top: 80px;
+}
+
+.orn{
+    position: relative;
+    display: none;
+}
+
+.orb{
+    position: relative;
+    top: 30px;
+}
+
+.orf{
+   
+    position: relative;
+    margin-left: 70px;
+}
+
+.ory{
+    position: relative;
+    margin-top:10px;
+    margin-right: 40px;
+}
+
+.iop{
+    position: relative;
+    width: 100%;
+    left:10px;
+    height: auto;
+}
+
+.poi{
+    position: relative;
+    width: 100%;
+    left:10px;
+    margin-top: 50px;
+    padding-bottom: 40px;
+}
+
+.oii{
+    position: relative;
+    width: 80%;
+    left: 50px;
+    bottom: 40px;
+}
+
+.loi{
+    position: relative;
+    width: 98%;
+}
+
+
+.oil{
+   position: relative;
+   width: 90%;
+}
+
+
+
+
+}
