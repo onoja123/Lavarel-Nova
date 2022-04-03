@@ -18,6 +18,9 @@ html,body{
  border-bottom: 2px solid #dee2e5;
 
 }
+.pl {
+  max-height: 100%;
+ }
 
 .mx-auto {
   margin-left: auto;
