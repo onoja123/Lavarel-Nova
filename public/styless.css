@@ -271,6 +271,7 @@ padding: 0;
     position: relative;
     padding-bottom: 55rem;
     overflow: hidden;
+    max-height: 100%;
 }
 
 
