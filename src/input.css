@@ -14,17 +14,21 @@ body{
 html,body{
   margin: 0;
 }
-.border-30 {
+.header {
  border-bottom: 2px solid #dee2e5;
-
+ max-width: 950px;
 }
+
+.pl {
+  position: relative;
+  padding-bottom: 1rem;
+  overflow: hidden;
+ }
 
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
 }
-
-
 
 .fy-10 {
 bottom: 0px;
@@ -45,15 +49,15 @@ position: relative;
 
 .jk-10 {
 position: relative;
+bottom: 80px;
 
 }
 
 
-.lk-10 {
+.cards {
  position: relative;
 max-height: 1px;
 margin-top: 0%;
-
 }
 
 
@@ -170,4 +174,21 @@ display: none;
 .ikl {
   position: relative;
   padding-bottom: 90px;
+}
+
+
+.last{
+  position: relative;
+  left: -5px;
+  top: 5px;
+}
+
+.tos{
+  position: relative;
+  left: 8px;
+}
+
+.footer-span{
+   position: relative;
+    left: 5px;
 }

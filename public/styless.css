@@ -1,9 +1,246 @@
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) {
+    .mm{
+        position: relative;
+        margin-bottom: 90px;
+    }
+
+    .ol{
+        position: relative;
+        margin-top: 9px;
+        padding-bottom: 10px;
+        padding-top: 0rem;
+    }
+
+    .oo{
+        position: relative;
+        top: -330px;
+    }
+
+    .lkg{
+        position: relative;
+      right: 30px;
+    }
+   .kg{
+       left: -110px;
+     
+   }
+  
+   .jg{
+    margin-right: 30px;
+   }
+  
+  .lu{
+      margin-right: 30px;
+  }
+  
+  .lvr{
+      left: -30px;
+      position: relative;
+  }
+
+  .ui{
+    position: relative;
+    width: 80%;
+    margin-left: 65px;
+}
+
+.yu{
+    position: relative;
+    margin-left: 25px;
+}
+
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) {
+    .mm{
+        position: relative;
+      min-height: 2100px;
+    }
+
+
+    .ol{
+        position: relative;
+        margin-bottom: 50px;
+    }
+
+    .oo{
+        position: relative;
+        top: -320px;
+    }
+
+
+    .lkg{
+        position: relative;
+      right: 30px;
+    }
+   .kg{
+       left: -110px;
+     
+   }
+  
+   .jg{
+    margin-right: 30px;
+   }
+  
+  .lu{
+      margin-right: 30px;
+  }
+  
+  .lvr{
+      left: -30px;
+      position: relative;
+  }
+
+  .ui{
+    position: relative;
+    width: 80%;
+    margin-left: 65px;
+}
+
+.yu{
+    position: relative;
+    margin-left: 25px;
+}
+
+}
+
+@media only screen and (min-device-width: 390px) and (max-device-height: 844px) and (-webkit-device-pixel-ratio: 3) { 
+    .mm{
+        position: relative;
+        min-height: 2000px;
+    }
+
+    .ol{
+        position: relative;
+        margin-bottom: 30px;
+        padding-bottom: 20px;
+        padding-top: 0rem;
+    }
+
+    .oo{
+        position: relative;
+        margin-bottom: 60px;
+    }
+
+    .lkg{
+        position: relative;
+      right: 30px;
+    }
+   .kg{
+       left: -110px;
+     
+   }
+  
+   .jg{
+    margin-right: 30px;
+   }
+  
+  .lu{
+      margin-right: 30px;
+  }
+  
+  .lvr{
+      left: -30px;
+      position: relative;
+  }
+
+  .ui{
+    position: relative;
+    width: 80%;
+    margin-left: 65px;
+}
+
+.yu{
+    position: relative;
+    margin-left: 25px;
+}
+
+
+
+}
+
+
+
+/* iphone X , XS, 11 Pro, 12 Mini */
+ @media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+br{
+    display: none;
+}
+    .ol{
+        position: relative;
+        margin-bottom: 90px;
+        padding-bottom: 20px;
+        padding-top: 0rem;
+    }
+
+    .oo{
+        position: relative;
+        margin-bottom: 85px;
+        padding-bottom: -90rem;
+    }
+.section-2-text{
+    position: relative;
+    bottom: 70px;
+   
+}
+  
+.mm{
+    position: relative;
+    min-height: 2100px;
+
+  }
+
+  .ui{
+      position: relative;
+      width: 80%;
+      margin-left: 65px;
+  }
+
+  .yu{
+      position: relative;
+      margin-left: 25px;
+  }
+
+  .uo{
+    position: relative;
+
+
+  }
+
+  .lkg{
+      position: relative;
+    right: 30px;
+  }
+ .kg{
+     left: -110px;
+   
+ }
+
+ .jg{
+  margin-right: 30px;
+ }
+
+.lu{
+    margin-right: 30px;
+}
+
+.lvr{
+    left: -30px;
+    position: relative;
+}
+
+
+}
+
+
+
 
 @media (max-width: 24em) {
     .mm{
         max-height: 1800px;
     }
 }
+
 @media (orientation: portrait) {
 
     body{
@@ -16,6 +253,7 @@
     .ght {
     position: relative;
    right: 650px;
+  
    
     }
     
@@ -29,11 +267,11 @@
     position: relative;
     max-height: 1px;
     padding-bottom: 150px;
-    margin-left: 135px;
+    margin-left: 145px;
     top: 0%;
     bottom: 0%;
     display: flex;
-    width: 8em;
+    width: 10em;
   }
 
   .lkg{
@@ -41,7 +279,7 @@
       bottom: 0%;
       top: 0%;
       margin-left: 296px;
-      font-size: 14px;
+      font-size: 16px;
       margin-bottom: 22px;
   }
 
@@ -50,7 +288,7 @@
    bottom: 0%;
    margin-top: 25px;
     top: 0%;
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .jg{
@@ -58,7 +296,7 @@
    bottom: 0%;
    margin-top: 50px;
     top: 0%;
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .lu{
@@ -66,7 +304,7 @@
     bottom: 0%;
     margin-top: 80px;
      top: 0%;
-     font-size: 14px;
+     font-size: 16px;
   }
 
   .sl{
@@ -75,6 +313,7 @@
       left: -380px;
       width: 22em;
       bottom: 200px;
+     
   }
 
 .hu{
@@ -125,7 +364,7 @@ padding-right: 30px;
 .oo{
     position: absolute;
     right: 50px;
-   bottom: 860px;
+   bottom: 850px;
     width: 80%;
 }
 
@@ -449,7 +688,7 @@ bottom: 450px;
           right: 103px;
         left: 1px;
         font-size: 13px;
-       width:140%;
+       width:138%;
 }
 
 .gb{

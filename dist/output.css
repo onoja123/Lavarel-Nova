@@ -604,6 +604,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   bottom: 0.5rem;
 }
 
+.top-5{
+  top: 1.25rem;
+}
+
 .bottom-48{
   bottom: 12rem;
 }
@@ -686,6 +690,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-bottom: 0.5rem;
 }
 
+.ml-4{
+  margin-left: 1rem;
+}
+
 .ml-36{
   margin-left: 9rem;
 }
@@ -742,8 +750,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-left: 11rem;
 }
 
-.mt-7{
-  margin-top: 1.75rem;
+.mt-6{
+  margin-top: 1.5rem;
 }
 
 .ml-40{
@@ -915,12 +923,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-radius: 9999px;
 }
 
-.border{
-  border-width: 1px;
-}
-
 .border-4{
   border-width: 4px;
+}
+
+.border{
+  border-width: 1px;
 }
 
 .border-white{
@@ -1276,8 +1284,15 @@ html,body{
   margin: 0;
 }
 
-.border-30 {
+.header {
   border-bottom: 2px solid #dee2e5;
+  max-width: 950px;
+}
+
+.pl {
+  position: relative;
+  padding-bottom: 1rem;
+  overflow: hidden;
 }
 
 .mx-auto {
@@ -1303,9 +1318,10 @@ html,body{
 
 .jk-10 {
   position: relative;
+  bottom: 80px;
 }
 
-.lk-10 {
+.cards {
   position: relative;
   max-height: 1px;
   margin-top: 0%;
@@ -1413,6 +1429,22 @@ html,body{
 .ikl {
   position: relative;
   padding-bottom: 90px;
+}
+
+.last{
+  position: relative;
+  left: -5px;
+  top: 5px;
+}
+
+.tos{
+  position: relative;
+  left: 8px;
+}
+
+.footer-span{
+  position: relative;
+  left: 5px;
 }
 
 .hover\:bg-\[\#EEF1F4\]:hover{
